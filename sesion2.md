@@ -2,19 +2,35 @@
 [Inicio](./index.md)
 
 ## Sesión 2
+### Actividad 2: Instalación de Entornos de Desarrollo para Java y ejercicios de programación básica.
+#### Objetivo: Familiarizarse con la instalación de los entornos de desarrollo necesarios para programar en Java.
+##### Instalación de Entornos de Desarrollo para Java
+El proceso de instalación de los entornos de desarrollo para Java, **NetBeans IDE** e **IntelliJ IDEA**, se puede resumir en los siguientes pasos:
+##### Descargar NetBeans IDE: 
+desde el sitio web oficial de NetBeans. Ejecutar el archivo de instalación de NetBeans y seguir las instrucciones del asistente de instalación.
+##### Descargar IntelliJ IDEA 
+desde el sitio web oficial de IntelliJ IDEA. Ejecutar el archivo de instalación de IntelliJ IDEA y seguir las instrucciones del asistente de instalación.
+Verificar la instalación abriendo cada IDE y creando un proyecto de Java. Explorar las características y funcionalidades de cada entorno de desarrollo.
+##### Prueba y ejecución de ejercicios de programación básica.
+En esta actividad, pondremos en práctica los conceptos aprendidos de programación básica mediante la ejecución y prueba de diversos ejercicios. Utilizaremos el lenguaje de programación Java para implementar los programas y comprobaremos su funcionamiento ingresando diferentes valores de entrada.
+1. Programa para calcular la hipotenusa de un triángulo rectángulo:
+```java
+import java.util.Scanner;
 
+public class HipotenusaTriangulo {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
+        System.out.print("Ingrese el valor del primer cateto: ");
+        double cateto1 = scanner.nextDouble();
+
+        System.out.print("Ingrese el valor del segundo cateto: ");
+        double cateto2 = scanner.nextDouble();
+
+        double hipotenusa = Math.sqrt(Math.pow(cateto1, 2) + Math.pow(cateto2, 2));
+        System.out.println("La hipotenusa del triángulo es: " + hipotenusa);
+
+        scanner.close();
+    }
+}
 ```
-```html 
-<h1>hello word</h1>
-```
-
-
-
-
-
-
