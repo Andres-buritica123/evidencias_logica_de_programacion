@@ -11,11 +11,11 @@
 
 El proceso de instalación de los entornos de desarrollo para Java, **NetBeans IDE** e **IntelliJ IDEA**, se puede resumir en los siguientes pasos:
 
-##### Descargar NetBeans IDE:
+##### -Descargar NetBeans IDE:
 
 desde el sitio web oficial de NetBeans. Ejecutar el archivo de instalación de NetBeans y seguir las instrucciones del asistente de instalación.
 
-##### Descargar IntelliJ IDEA 
+##### -Descargar IntelliJ IDEA: 
 
 desde el sitio web oficial de IntelliJ IDEA. Ejecutar el archivo de instalación de IntelliJ IDEA y seguir las instrucciones del asistente de instalación.
 Verificar la instalación abriendo cada IDE y creando un proyecto de Java. Explorar las características y funcionalidades de cada entorno de desarrollo.
@@ -49,7 +49,7 @@ public class HipotenusaTriangulo {
 
 ```
 
-2. Programa para determinar si un número es par o impar:
+1. Programa para determinar si un número es par o impar:
 
 ```java
 
@@ -74,7 +74,7 @@ public class ParImpar {
 
 ```
 
-3. Programa para calcular el tercer ángulo de un triángulo:
+1. Programa para calcular el tercer ángulo de un triángulo:
 
 ```java
 
@@ -103,7 +103,7 @@ public class TercerAnguloTriangulo {
 
 ```
 
-4. Programa para calcular el promedio de tres números:
+1. Programa para calcular el promedio de tres números:
 
 ```java
 
@@ -131,7 +131,7 @@ public class PromedioTresNumeros {
 
 ```
 
-5. Programa para calcular la longitud de una cadena de texto:
+1. Programa para calcular la longitud de una cadena de texto:
 
 ```java
 
@@ -153,7 +153,7 @@ public class LongitudCadena {
 
 ```
 
-6. Programa para calcular el área de un triángulo:
+1. Programa para calcular el área de un triángulo:
 
 ```java
 
@@ -178,7 +178,7 @@ public class AreaTriangulo {
 
 ```
 
-7. Programa para calcular la raíz cuadrada de un número:
+1. Programa para calcular la raíz cuadrada de un número:
 
 ```java
 
@@ -200,7 +200,7 @@ public class RaizCuadrada {
 
 ```
 
-8. Programa para calcular el máximo común divisor (MCD) de dos números:
+1. Programa para calcular el máximo común divisor (MCD) de dos números:
 
 ```java
 
@@ -234,7 +234,7 @@ publicclass MaximoComunDivisor {
 
 ```
 
-9. Programa para imprimir una cadena de texto en orden inverso:
+1. Programa para imprimir una cadena de texto en orden inverso:
 
 ```java
 
@@ -260,7 +260,7 @@ public class CadenaInversa {
 
 ```
 
-10. Programa para calcular el área de un rectángulo:
+1. Programa para calcular el área de un rectángulo:
 
 ```java
 

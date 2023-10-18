@@ -30,24 +30,23 @@ Para lograrlo, los estudiantes deben usar la lógica y determinar qué interrupt
 
 1. ¿Qué es la lógica de programación?[^1].
 
-2. ¿Cuáles son los elementos básicos de la lógica de programación?[^2].
+1. ¿Cuáles son los elementos básicos de la lógica de programación?[^2].
 
-3. ¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?[^3].
+1. ¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?[^3].
 
-4. ¿Qué es un algoritmo y para qué se utiliza en la programación?[^4].
+1. ¿Qué es un algoritmo y para qué se utiliza en la programación?[^4].
 
-5. ¿Cuáles son las principales diferencias entre los diferentes tipos de lenguajes de programación?[^5].
+1. ¿Cuáles son las principales diferencias entre los diferentes tipos de lenguajes de programación?[^5].
 
-6. ¿Cómo se utiliza la lógica booleana en la programación?[^6].
+1. ¿Cómo se utiliza la lógica booleana en la programación?[^6].
 
-7. ¿Qué son las estructuras de control de flujo y cómo se utilizan en la programación?[^7].
+1. ¿Qué son las estructuras de control de flujo y cómo se utilizan en la programación?[^7].
 
-8. ¿Qué es una variable y para qué se utiliza en la programación?[^8].
+1. ¿Qué es una variable y para qué se utiliza en la programación?[^8].
 
-9. ¿Cómo se utilizan las funciones en la programación?[^9].
+1. ¿Cómo se utilizan las funciones en la programación?[^9].
 
-10. ¿Qué es la programación orientada a objetos y cómo se utiliza en la programación?[^10].
-
+1. ¿Qué es la programación orientada a objetos y cómo se utiliza en la programación?[^10].
 
 ## Solución actividad de consulta
 
