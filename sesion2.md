@@ -2,19 +2,32 @@
 [Inicio](./index.md)
 
 ## Sesión 2
+
 ### Actividad 2: Instalación de Entornos de Desarrollo para Java y ejercicios de programación básica.
+
 #### Objetivo: Familiarizarse con la instalación de los entornos de desarrollo necesarios para programar en Java.
+
 ##### Instalación de Entornos de Desarrollo para Java
+
 El proceso de instalación de los entornos de desarrollo para Java, **NetBeans IDE** e **IntelliJ IDEA**, se puede resumir en los siguientes pasos:
-##### Descargar NetBeans IDE: 
+
+##### Descargar NetBeans IDE:
+
 desde el sitio web oficial de NetBeans. Ejecutar el archivo de instalación de NetBeans y seguir las instrucciones del asistente de instalación.
+
 ##### Descargar IntelliJ IDEA 
+
 desde el sitio web oficial de IntelliJ IDEA. Ejecutar el archivo de instalación de IntelliJ IDEA y seguir las instrucciones del asistente de instalación.
 Verificar la instalación abriendo cada IDE y creando un proyecto de Java. Explorar las características y funcionalidades de cada entorno de desarrollo.
+
 ##### Prueba y ejecución de ejercicios de programación básica.
+
 En esta actividad, pondremos en práctica los conceptos aprendidos de programación básica mediante la ejecución y prueba de diversos ejercicios. Utilizaremos el lenguaje de programación Java para implementar los programas y comprobaremos su funcionamiento ingresando diferentes valores de entrada.
+
 1. Programa para calcular la hipotenusa de un triángulo rectángulo:
+
 ```java
+
 import java.util.Scanner;
 
 public class HipotenusaTriangulo {
@@ -33,9 +46,13 @@ public class HipotenusaTriangulo {
         scanner.close();
     }
 }
+
 ```
+
 2. Programa para determinar si un número es par o impar:
+
 ```java
+
 import java.util.Scanner;
 
 public class ParImpar {
@@ -54,9 +71,13 @@ public class ParImpar {
         scanner.close();
     }
 }
+
 ```
+
 3. Programa para calcular el tercer ángulo de un triángulo:
+
 ```java
+
 import java.util.Scanner;
 
 public class TercerAnguloTriangulo {
@@ -79,8 +100,11 @@ public class TercerAnguloTriangulo {
         scanner.close();
     }
 }
+
 ```
+
 4. Programa para calcular el promedio de tres números:
+
 ```java
 
 import java.util.Scanner;
@@ -130,7 +154,9 @@ public class LongitudCadena {
 ```
 
 6. Programa para calcular el área de un triángulo:
+
 ```java
+
 import java.util.Scanner;
 
 public class AreaTriangulo {
@@ -149,9 +175,13 @@ public class AreaTriangulo {
         scanner.close();
     }
 }
+
 ```
+
 7. Programa para calcular la raíz cuadrada de un número:
+
 ```java
+
 import java.util.Scanner;
 
 public class RaizCuadrada {
@@ -167,9 +197,13 @@ public class RaizCuadrada {
         scanner.close();
     }
 }
+
 ```
+
 8. Programa para calcular el máximo común divisor (MCD) de dos números:
+
 ```java
+
 import java.util.Scanner;
 
 publicclass MaximoComunDivisor {
@@ -197,9 +231,13 @@ publicclass MaximoComunDivisor {
         return a;
     }
 }
+
 ```
+
 9. Programa para imprimir una cadena de texto en orden inverso:
+
 ```java
+
 import java.util.Scanner;
 
 public class CadenaInversa {
@@ -219,9 +257,13 @@ public class CadenaInversa {
         scanner.close();
     }
 }
+
 ```
+
 10. Programa para calcular el área de un rectángulo:
+
 ```java
+
 import java.util.Scanner;
 
 public class AreaRectangulo {
@@ -240,4 +282,5 @@ public class AreaRectangulo {
         scanner.close();
     }
 }
+
 ```
