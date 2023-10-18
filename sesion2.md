@@ -82,6 +82,7 @@ public class TercerAnguloTriangulo {
 ```
 4. Programa para calcular el promedio de tres números:
 ```java
+
 import java.util.Scanner;
 
 public class PromedioTresNumeros {
@@ -103,9 +104,13 @@ public class PromedioTresNumeros {
         scanner.close();
     }
 }
+
 ```
+
 5. Programa para calcular la longitud de una cadena de texto:
+
 ```java
+
 import java.util.Scanner;
 
 public class LongitudCadena {
@@ -121,7 +126,9 @@ public class LongitudCadena {
         scanner.close();
     }
 }
+
 ```
+
 6. Programa para calcular el área de un triángulo:
 ```java
 import java.util.Scanner;
