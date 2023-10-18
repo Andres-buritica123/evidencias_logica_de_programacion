@@ -23,7 +23,7 @@
 
 ## Solución actividad 3
 
-[^1]: Suma y multiplicación:
+- Suma y multiplicación:
 
 ```java
 
@@ -48,7 +48,7 @@ public class Github {
 
 ```
 
-[^2]: Resta y division:
+- Resta y division:
 
 ```java
 
@@ -72,7 +72,7 @@ public class Github {
 }
 
 ```
-[^3]: Operaciones combinadas:
+- Operaciones combinadas:
 
 ```java
 
@@ -101,7 +101,7 @@ public class Github {
 
 ```
 
-[^4]: Operaciones con dcimales:
+- Operaciones con dcimales:
 
 ```java
 
@@ -130,7 +130,7 @@ public class Github {
 
 ```
 
-[^5]: Incremento y decremento:
+- Incremento y decremento:
 
 ```java
 
@@ -149,7 +149,7 @@ public class Github {
 
 ```
 
-[^6]: Operador de asignación compuesta:
+- Operador de asignación compuesta:
 
 ```java
 
@@ -165,7 +165,7 @@ public class Github {
 
 ```
 
-[^7]: Operadores lógicos:
+- Operadores lógicos:
 
 ```java
 
@@ -189,7 +189,7 @@ public class Github {
 
 ```
 
-[^8]: Operador ternario:
+- Operador ternario:
 
 ```java
 

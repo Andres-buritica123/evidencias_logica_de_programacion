@@ -2,12 +2,3 @@
 [Inicio](./index.md)
 
 ## Sesión 4
-
-
-<!-- Su documentación aquí -->
-
-
-
-
-
-
