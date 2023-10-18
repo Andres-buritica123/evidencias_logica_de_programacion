@@ -7,24 +7,24 @@
 
 #### Objetivo: Familiarizarse con la instalación de los entornos de desarrollo necesarios para programar en Java.
 
-##### Instalación de Entornos de Desarrollo para Java
+### Instalación de Entornos de Desarrollo para Java
 
 El proceso de instalación de los entornos de desarrollo para Java, **NetBeans IDE** e **IntelliJ IDEA**, se puede resumir en los siguientes pasos:
 
-##### - Descargar NetBeans IDE:
+##### Descargar NetBeans IDE:
 
 desde el sitio web oficial de NetBeans. Ejecutar el archivo de instalación de NetBeans y seguir las instrucciones del asistente de instalación.
 
-##### - Descargar IntelliJ IDEA: 
+##### Descargar IntelliJ IDEA: 
 
 desde el sitio web oficial de IntelliJ IDEA. Ejecutar el archivo de instalación de IntelliJ IDEA y seguir las instrucciones del asistente de instalación.
 Verificar la instalación abriendo cada IDE y creando un proyecto de Java. Explorar las características y funcionalidades de cada entorno de desarrollo.
 
-##### Prueba y ejecución de ejercicios de programación básica.
+### Prueba y ejecución de ejercicios de programación básica.
 
 En esta actividad, pondremos en práctica los conceptos aprendidos de programación básica mediante la ejecución y prueba de diversos ejercicios. Utilizaremos el lenguaje de programación Java para implementar los programas y comprobaremos su funcionamiento ingresando diferentes valores de entrada.
 
-1. Programa para calcular la hipotenusa de un triángulo rectángulo:
+- Programa para calcular la hipotenusa de un triángulo rectángulo:
 
 ```java
 
