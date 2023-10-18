@@ -3,8 +3,20 @@
 
 ## Sesión 1 
 ### Actividad 1: Diagnóstico de aprendizajes previos (Trabajo grupal)
+Objetivo: Desarrollar habilidades de pensamiento lógico y resolución de problemas.
+### Ejercicio 1: El juego de la adivinanza
+#### Instrucciones:
+El docente piensa en un número entre 1 y 100 (puede ser cualquier número).
+Los estudiantes hacen preguntas de sí o no para tratar de adivinar el número que el docente ha pensado.
+El docente solo puede responder con "sí" o "no" a cada pregunta.
+Los estudiantes deben usar la lógica para hacer preguntas que reduzcan el rango de posibilidades del número a adivinar.
+### Ejercicio 2: "El juego de los interruptores"
+#### Instrucciones:
+En la habitación hay tres interruptores, cada uno con dos estados: encendido o apagado.
+Solo uno de los interruptores enciende una luz en la habitación adyacente; los otros dos no tienen ninguna función.
+El objetivo del juego es que los estudiantes descubran qué interruptor enciende la luz con una única verificación del estado en la habitación adyacente.
+Para lograrlo, los estudiantes deben usar la lógica y determinar qué interruptor deben encender para reducir el rango de posibilidades del interruptor correcto.
 ## Actividad de consulta
-
 1. ¿Qué es la lógica de programación?[^1].
 2. ¿Cuáles son los elementos básicos de la lógica de programación?[^2].
 3. ¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?[^3].
@@ -15,7 +27,6 @@
 8. ¿Qué es una variable y para qué se utiliza en la programación?[^8].
 9. ¿Cómo se utilizan las funciones en la programación?[^9].
 10. ¿Qué es la programación orientada a objetos y cómo se utiliza en la programación?[^10].
-
 ## Solución actividad de consulta
 [^1]: La lógica de programación consiste en la organización y planificación coherente de las instrucciones necesarias para ejecutar con éxito un programa. Dentro de ello hay una serie de patrones que se repiten en todos los lenguajes, como el uso de variables, métodos o funciones, condicionales y bucles. Una vez que comprendas cómo funcionan estas cositas, lo demás es pan comido (si no te dejas un punto y coma por ahí perdido, claro está). La lógica es la base para aquellos que se inician en el mundo de la programación.
 [^2]: Para poner en práctica la Lógica de Programación se deben desarrollar Algoritmos, en los cuales se utilizan una serie de elementos que facilitan el entendimiento de cada paso a ejecutar, tales como: Instrucciones, Datos, Variables, Constantes, Operadores. Se debe destacar, que para ser un excelente Programador de sistemas informáticos se debe de estar totalmente claro de todas estas definiciones, así como también, acerca de las maneras o formas en que se utilizan, en sus por qué se utilizan y sus para qué se utilizan.
@@ -26,4 +37,4 @@
 [^7]: Alteran o controlan el orden en el que se ejecutan las acciones. Llamamos estructuras de control del flujo de las acciones al conjunto de reglas que permiten controlar el flujo de las acciones de un algoritmo o programa. Las mismas pueden clasificarse en secuenciales, condicionales e iterativas.
 [^8]: Una variable es un elemento de datos con nombre cuyo valor puede cambiar durante el curso de la ejecución de un programa. Un nombre de variable debe seguir el convenio de denominación de un identificador (carácter alfabético o número y el signo de subrayado). Cuando se define más de una variable en una sola declaración, el nombre debe ir separado por comas. Cada declaración de variable debe finalizar con un signo de punto y coma. Los nombres de variables no pueden coincidir con una palabra reservada.
 [^9]: Las funciones empaquetan y aíslan del resto del programa una serie de variables e instrucciones de código que realizan alguna tarea específica. Solo se ejecutan si son llamadas desde el código principal y tras procesar sus instrucciones, devuelven un resultado a esa parte del código principal que la invocó. Los valores de esas variables internas (locales) no entran en conflicto con el resto del programa.
-[^10]: La programación orientada a objetos es un modelo de programación en el que el diseño de software se organiza alrededor de datos u objetos, en vez de usar funciones y lógica. Se enfoca en los objetos que los programadores necesitan manipular, en lugar de centrarse en la lógica necesaria para esa manipulación. Un objeto se puede definir como un campo de datos con atributos y comportamientos únicos. Por tanto, la principal característica de este tipo de programación es que soporta objetos, que tienen un tipo o clase asociado. Esas clases pueden heredar atributos de una clase superior o superclase. Por esa razón, este enfoque de programación se utiliza en programas grandes y complejos que se deben actualizar con cierta regularidad.
+[^10]: La programación orientada a objetos es un modelo de programación en el que el diseño de software se organiza alrededor de datos u objetos, en vez de usar funciones y lógica. Se enfoca en los objetos que los programadores necesitan manipular, en lugar de centrarse en la lógica necesaria para esa manipulación. Un objeto se puede definir como un campo de datos con atributos y comportamientos únicos.  Por tanto, la principal característica de este tipo de programación es que soporta objetos, que tienen un tipo o clase asociado. Esas clases pueden heredar atributos de una clase superior o superclase. Por esa razón, este enfoque de programación se utiliza en programas grandes y complejos que se deben actualizar con cierta regularidad.
