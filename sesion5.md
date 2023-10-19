@@ -56,7 +56,7 @@ public class Github {
 
 ```
 
-2. 
+2.
 
 ```java
 
@@ -116,7 +116,7 @@ public class Github {
 
 ```
 
-2. 
+2.
 
 ```java
 
@@ -169,7 +169,7 @@ public class Github {
 
 ```
 
-2. 
+2.
 
 ```java
 
