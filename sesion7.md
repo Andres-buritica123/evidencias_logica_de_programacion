@@ -106,3 +106,79 @@ public class AppNotas {
 ```
 
 ### 2. Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
+
+## Solución actividad 7
+
+1. Array
+
+```java
+
+public class Github {
+
+    public static void main(String[] args) {
+        String bmw = "BMW";
+        String ford = "Ford";
+        String lamboghini = "Lamboghini";
+        String mazda = "Mazda";
+        String tesla = "Tesla Inc";
+        String ferrari = "Ferrari";
+        String toyota = "Toyota";
+        String volkswagen = "Volkswagen";
+        String porsche = "Porsche";
+        
+        String[] numeros = new String[10];
+        numeros[1] = bmw;
+        numeros[2] = ford;
+        numeros[3] = lamboghini;
+        numeros[4] = mazda;
+        numeros[5] = tesla;
+        numeros[6] = ferrari;
+        numeros[7] = toyota;
+        numeros[8] = volkswagen;
+        numeros[9] = porsche;
+
+        System.out.println("Que marca de carro le gusta más y si es buena elección");
+        System.out.println("""
+                           1 = BMW
+                           2 = Ford
+                           3 = Lamboghini
+                           4 = Mazda
+                           5 = Tesla Inc
+                           6 = Ferrari  
+                           7 = Toyota
+                           8 = Volkswagen
+                           9 = Porsche""");
+        String carro = numeros[9];
+        System.out.println("Marca de carro elgida: " + carro + "; es buena elección");
+    }
+
+}
+
+
+```
+
+2. ArrayList
+
+```java
+
+import java.util.ArrayList;
+
+
+public class Github {
+
+    public static void main(String[] args) {
+
+        ArrayList<String> nombreArrayList = new ArrayList<>();
+        
+        for (int i = 1; i <= 10; i++) {
+            nombreArrayList.add("Elemento " + i);
+        }
+        nombreArrayList.add(0, "Elemento 3");
+
+        for (String elemento : nombreArrayList) {
+            System.out.print(elemento + " / ");
+        }
+    }
+}
+
+```
