@@ -18,7 +18,7 @@ Implementar los siguientes métodos:
 
 ## Solución actividad 8
 
-1. 
++ 1
 
 ```java
 
@@ -51,7 +51,7 @@ public class Github {
 
 ```
 
-2. 
++ 2
 
 ```java
 
@@ -85,7 +85,7 @@ public class Github {
 
 ```
 
-3. 
++ 3
 
 ```java
 
@@ -114,8 +114,60 @@ public class Github {
  
  ```
 
- 4. 
++ 4 
 
  ```java
 
- 
+ import java.util.Scanner;
+
+public class Github {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Ingrese una cadena de caracteres: ");
+        String cadena = sc.nextLine();
+        contador(cadena);
+        sc.close();
+    }
+
+    public static String contador(String cadena) {
+        System.out.println("El texto ingresado contiene " + cadena.length() + " carateres");
+        return cadena;
+
+    }
+}
+
+```
+
++ 5
+
+ ```java
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class Github {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String texto = sc.nextLine();
+        String textoOrdenado = ordenarPalabras(texto);
+        System.out.println("Texto original: " + texto);
+        System.out.println("Texto ordenado alfabéticamente: " + textoOrdenado);
+    }
+
+    public static String ordenarPalabras(String texto) {
+        String[] palabras = texto.split(" ");
+        Arrays.sort(palabras);
+        StringBuilder resultado = new StringBuilder();
+        for (String palabra : palabras) {
+            resultado.append(palabra).append(" ");
+        }
+        resultado.setLength(resultado.length() - 1);
+
+        return resultado.toString();
+    }
+}
+
+  ```
+  
